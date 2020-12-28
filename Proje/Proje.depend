@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1609102550 source:c:\users\dell\desktop\yeni klasör\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<unistd.h>
+
+1609140095 source:c:\users\dell\desktop\19360859039_20360858089\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<unistd.h>
+
