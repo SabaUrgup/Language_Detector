@@ -3,6 +3,7 @@
 Dil Tahmin Projesi
 Bu program ile girilen bir metnin içerisindeki tanımlı biagram ve trigramların frekanslarını bulabilir ve sonucunda bu metnin dilinin Almanca mı İngilizce mi olduğunu görebilirsiniz.
 
+
 [EN]
 # Algorithm-Project
 Language Prediction Project
